@@ -1,0 +1,96 @@
+{
+    "SpaceDetails": {
+        "DPASpaceId": 13,
+        "DPApartmentId": 2,
+        "Name": "Bedroom Entry ",
+        "SpaceTypeId": 60,
+        "UomID": 13,
+        "Width": 1000,
+        "Length": 400,
+        "Height": 3300,
+        "ParentDPASpaceId": 9,
+        "AnamolyText": null,
+        "Active": 1,
+        "ParentDPASpaceOpeningID": 2,
+        "TempDPASpaceId": null,
+        "TempParentDPASpaceOpeningID": null,
+        "TempParentDPASpaceID": null,
+        "StartPoint": 0
+    },
+    "WallDetails": [
+        {
+            "DPASpaceWallId": 29,
+            "DPApartmentId": 2,
+            "DPASpaceId": 13,
+            "WallNo": 1,
+            "SpaceWallId": 16,
+            "SubspaceProductCID": 592,
+            "Active": 1,
+            "SubspaceProductCNames": "No subspace",
+            "CounterLength": null,
+            "WallName": "Opposite Wall",
+            "SubspaceProductCKey": "NS",
+            "Layout": null
+        },
+        {
+            "DPASpaceWallId": 30,
+            "DPApartmentId": 2,
+            "DPASpaceId": 13,
+            "WallNo": 2,
+            "SpaceWallId": 14,
+            "SubspaceProductCID": 565,
+            "Active": 1,
+            "SubspaceProductCNames": "No subspace",
+            "CounterLength": null,
+            "WallName": "Side Wall 1",
+            "SubspaceProductCKey": "NS",
+            "Layout": null
+        },
+        {
+            "DPASpaceWallId": 31,
+            "DPApartmentId": 2,
+            "DPASpaceId": 13,
+            "WallNo": 3,
+            "SpaceWallId": 13,
+            "SubspaceProductCID": 545,
+            "Active": 1,
+            "SubspaceProductCNames": "No subspace",
+            "CounterLength": null,
+            "WallName": "Entry Door Wall",
+            "SubspaceProductCKey": "NS",
+            "Layout": null
+        },
+        {
+            "DPASpaceWallId": 32,
+            "DPApartmentId": 2,
+            "DPASpaceId": 13,
+            "WallNo": 4,
+            "SpaceWallId": 15,
+            "SubspaceProductCID": 583,
+            "Active": 1,
+            "SubspaceProductCNames": "No subspace",
+            "CounterLength": null,
+            "WallName": "Side Wall 2",
+            "SubspaceProductCKey": "NS",
+            "Layout": null
+        }
+    ],
+    "DoorDetails": [
+        {
+            "DPASpaceDoorId": 12,
+            "DPApartmentId": 2,
+            "DPASpaceId": 13,
+            "WallNo": 3,
+            "DoorNo": "D1",
+            "DoorKey": "D1_900",
+            "DoorType": "Single Hinge",
+            "StartPoint": 45,
+            "Active": 1,
+            "DoorWidth": "900",
+            "DoorHeight": "2400",
+            "DoorThickness": "40"
+        }
+    ],
+    "WindowDetails": [],
+    "OpeningDetails": []
+}

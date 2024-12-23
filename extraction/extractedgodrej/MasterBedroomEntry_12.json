@@ -1,0 +1,96 @@
+{
+    "SpaceDetails": {
+        "DPASpaceId": 12,
+        "DPApartmentId": 2,
+        "Name": "Master Bedroom Entry",
+        "SpaceTypeId": 58,
+        "UomID": 13,
+        "Width": 1600,
+        "Length": 1850,
+        "Height": 3300,
+        "ParentDPASpaceId": 6,
+        "AnamolyText": null,
+        "Active": 1,
+        "ParentDPASpaceOpeningID": 1,
+        "TempDPASpaceId": null,
+        "TempParentDPASpaceOpeningID": null,
+        "TempParentDPASpaceID": null,
+        "StartPoint": 1645
+    },
+    "WallDetails": [
+        {
+            "DPASpaceWallId": 17,
+            "DPApartmentId": 2,
+            "DPASpaceId": 12,
+            "WallNo": 1,
+            "SpaceWallId": 11,
+            "SubspaceProductCID": 528,
+            "Active": 1,
+            "SubspaceProductCNames": "Wardrobe",
+            "CounterLength": null,
+            "WallName": "Side Wall 2",
+            "SubspaceProductCKey": "STOW",
+            "Layout": null
+        },
+        {
+            "DPASpaceWallId": 18,
+            "DPApartmentId": 2,
+            "DPASpaceId": 12,
+            "WallNo": 2,
+            "SpaceWallId": 12,
+            "SubspaceProductCID": 536,
+            "Active": 1,
+            "SubspaceProductCNames": "No subspace",
+            "CounterLength": null,
+            "WallName": "Opposite Wall",
+            "SubspaceProductCKey": "NS",
+            "Layout": null
+        },
+        {
+            "DPASpaceWallId": 19,
+            "DPApartmentId": 2,
+            "DPASpaceId": 12,
+            "WallNo": 3,
+            "SpaceWallId": 10,
+            "SubspaceProductCID": 509,
+            "Active": 1,
+            "SubspaceProductCNames": "No subspace",
+            "CounterLength": null,
+            "WallName": "Side Wall 1",
+            "SubspaceProductCKey": "NS",
+            "Layout": null
+        },
+        {
+            "DPASpaceWallId": 20,
+            "DPApartmentId": 2,
+            "DPASpaceId": 12,
+            "WallNo": 4,
+            "SpaceWallId": 9,
+            "SubspaceProductCID": 497,
+            "Active": 1,
+            "SubspaceProductCNames": "Wardrobe on side wall 2",
+            "CounterLength": null,
+            "WallName": "Entry Door Wall",
+            "SubspaceProductCKey": "STOW-SW2",
+            "Layout": null
+        }
+    ],
+    "DoorDetails": [
+        {
+            "DPASpaceDoorId": 8,
+            "DPApartmentId": 2,
+            "DPASpaceId": 12,
+            "WallNo": 4,
+            "DoorNo": "D1",
+            "DoorKey": "D1_900",
+            "DoorType": "Single Hinge",
+            "StartPoint": 600,
+            "Active": 1,
+            "DoorWidth": "900",
+            "DoorHeight": "2400",
+            "DoorThickness": "40"
+        }
+    ],
+    "WindowDetails": [],
+    "OpeningDetails": []
+}

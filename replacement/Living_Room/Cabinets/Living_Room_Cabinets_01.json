@@ -1,0 +1,10 @@
+{"wall_objects": [
+        {
+            "name": "TV Unit Panel + Console + TV",
+            "location": [3.6,5.03,0],
+            "scale": [1, 1, 1],
+            "rotation": [0,0,4.71239],
+            "wall_name": "Wall_3",
+            "blend_file": "{base_path}/Replacement_asset/Living Room Replacement assets/DW1 TV unit 01.blend",
+            "object_name": "DW1 TV unit 01"
+        }]}

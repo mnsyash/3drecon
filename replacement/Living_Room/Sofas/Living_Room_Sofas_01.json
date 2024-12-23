@@ -1,0 +1,24 @@
+{"furniture": 
+  [
+    
+   
+   
+    {  "type": "DW 3 seater Sofa ",
+      "name": "DW 3 seater Sofa ",
+      "model_path":"{base_path}/Replacement_asset/Living Room Replacement assets/DW1 Sofa Unit 01.blend",
+      "location": [0.03,4.955,0],
+      "rotation": [0,0,1.5708],
+      "scale": [1,1,1],
+      "material_config":{},
+      "geometry_nodes_params": {
+        }
+    }
+   
+      
+  ]
+}
+
+
+
+
+

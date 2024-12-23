@@ -1,0 +1,16 @@
+{"furniture": 
+  [
+    
+
+    {  "type": "RUG",
+      "name": "rug",
+      "model_path":"{base_path}Replacement_asset/Master Bedroom Replacement assets/MBR Rug 04.blend",
+      "location": [2.59,2.8675, 0],
+      "rotation": [0, 0,4.71239],
+      "scale": [1,1,1],
+      "material_config":{},
+      "geometry_nodes_params": {
+        }
+    }
+
+  ]}

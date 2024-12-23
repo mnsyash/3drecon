@@ -1,0 +1,99 @@
+{"wall_objects": [
+  {
+      "name": "TV Unit Panel + Console + TV",
+      "location": [3.6,5.03,0],
+      "scale": [1, 1, 1],
+      "rotation": [0,0,4.71239],
+      "wall_name": "Wall_3",
+      "blend_file": "{base_path}/Replacement_asset/Living Room Replacement assets/DW1 TV unit 01.blend",
+      "object_name": "DW1 TV unit 01"
+  }],
+"furniture": 
+[
+
+
+
+{  "type": "Entry Console ",
+"name": "Entry Console ",
+"model_path":"{base_path}/Replacement_asset/Living Room Replacement assets/DW1 Entry Console 01.blend",
+"location": [3.6,1.795,0],
+"rotation": [0,0,4.71239],
+"scale": [1,1,1],
+"material_config":{},
+"geometry_nodes_params": {
+  }
+},
+{  "type": "Dining Console ",
+"name": "Dining Console ",
+"model_path":"{base_path}/Replacement_asset/Living Room Replacement assets/DW1 Dining Console 01.blend",
+"location": [1.005,0,0],
+"rotation": [0,0,3.14159],
+"scale": [1,1,1],
+"material_config":{},
+"geometry_nodes_params": {
+  }
+},
+{  "type": "Dining Table ",
+"name": "DW Dining",
+"model_path":"{base_path}/Replacement_asset/Living Room Replacement assets/DW1 Dining Table Set 01.blend",
+"location": [0.75,1.75,0],
+"rotation": [0,0,1.5708],
+"scale": [1,1,1],
+"material_config":{},
+"geometry_nodes_params": {
+  }
+}
+,
+{  "type": "Side Table (Round)",
+"name": "DW Side Table ",
+"model_path":"{base_path}/Replacement_asset/Living Room Replacement assets/DW1 Side Table(Round) 01.blend",
+"location": [0.03,3.268,0],
+"rotation": [0,0,1.5708],
+"scale": [1,1,1],
+"material_config":{},
+"geometry_nodes_params": {
+  }
+},
+{  "type": "DW 3 seater Sofa ",
+"name": "DW 3 seater Sofa ",
+"model_path":"{base_path}/Replacement_asset/Living Room Replacement assets/DW1 Sofa Unit 03.blend",
+"location": [0.03,4.955,0],
+"rotation": [0,0,1.5708],
+"scale": [1,1,1],
+"material_config":{},
+"geometry_nodes_params": {
+  }
+},
+{  "type": "DW Sofa Side Table (Window)",
+"name": "DW Sofa Side Table (Window)",
+"model_path":"{base_path}/Replacement_asset/Living Room Replacement assets/DW1 Side Table(Round) 03.blend",
+"location": [0.03,6.604,0],
+"rotation": [0,0,1.5708],
+"scale": [1,1,1],
+"material_config":{},
+"geometry_nodes_params": {
+  }
+},
+{  "type": "DW Rug",
+"name": "DW Rug",
+"model_path":"{base_path}/Replacement_asset/Living Room Replacement assets/DW1 Rug 01.blend",
+"location": [0.64,4.955,0],
+"rotation": [0,0,1.5708],
+"scale": [1,1,1],
+"material_config":{},
+"geometry_nodes_params": {
+  }
+},
+{  
+"type": "DW Center table ",
+"name": "DW Center table ",
+"model_path":"{base_path}/Replacement_asset/Living Room Replacement assets/DW1 Coffee Table 01.blend",
+"location": [1.585,4.955,0],
+"rotation": [0,0,1.5708],
+"scale": [1,1,1],
+"material_config":{},
+"geometry_nodes_params": {
+  }
+}
+
+]}

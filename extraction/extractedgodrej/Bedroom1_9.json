@@ -1,0 +1,127 @@
+{
+    "SpaceDetails": {
+        "DPASpaceId": 9,
+        "DPApartmentId": 2,
+        "Name": "Bedroom1",
+        "SpaceTypeId": 1,
+        "UomID": 13,
+        "Width": 3200,
+        "Length": 3545,
+        "Height": 3300,
+        "ParentDPASpaceId": null,
+        "AnamolyText": null,
+        "Active": 1,
+        "ParentDPASpaceOpeningID": null,
+        "TempDPASpaceId": null,
+        "TempParentDPASpaceOpeningID": null,
+        "TempParentDPASpaceID": null,
+        "StartPoint": null
+    },
+    "WallDetails": [
+        {
+            "DPASpaceWallId": 25,
+            "DPApartmentId": 2,
+            "DPASpaceId": 9,
+            "WallNo": 1,
+            "SpaceWallId": 6,
+            "SubspaceProductCID": 415,
+            "Active": 1,
+            "SubspaceProductCNames": "No subspace",
+            "CounterLength": null,
+            "WallName": "Side Wall 1",
+            "SubspaceProductCKey": "NS",
+            "Layout": null
+        },
+        {
+            "DPASpaceWallId": 26,
+            "DPApartmentId": 2,
+            "DPASpaceId": 9,
+            "WallNo": 2,
+            "SpaceWallId": 5,
+            "SubspaceProductCID": 328,
+            "Active": 1,
+            "SubspaceProductCNames": "Side Table 2,King Size Bed,Side Table 1,Wardrobe on side wall 2",
+            "CounterLength": null,
+            "WallName": "Bed Back Wall",
+            "SubspaceProductCKey": "ST2,KSB,ST1,STOW-SW2",
+            "Layout": null
+        },
+        {
+            "DPASpaceWallId": 27,
+            "DPApartmentId": 2,
+            "DPASpaceId": 9,
+            "WallNo": 3,
+            "SpaceWallId": 7,
+            "SubspaceProductCID": 441,
+            "Active": 1,
+            "SubspaceProductCNames": "Wardrobe",
+            "CounterLength": null,
+            "WallName": "Side Wall 2",
+            "SubspaceProductCKey": "STOW",
+            "Layout": null
+        },
+        {
+            "DPASpaceWallId": 28,
+            "DPApartmentId": 2,
+            "DPASpaceId": 9,
+            "WallNo": 4,
+            "SpaceWallId": 8,
+            "SubspaceProductCID": 468,
+            "Active": 1,
+            "SubspaceProductCNames": "Entertainment",
+            "CounterLength": null,
+            "WallName": "Opposite Wall",
+            "SubspaceProductCKey": "ENT",
+            "Layout": null
+        }
+    ],
+    "DoorDetails": [
+        {
+            "DPASpaceDoorId": 11,
+            "DPApartmentId": 2,
+            "DPASpaceId": 9,
+            "WallNo": 4,
+            "DoorNo": "D1",
+            "DoorKey": "D1_700",
+            "DoorType": "Single Hinge",
+            "StartPoint": 2445,
+            "Active": 1,
+            "DoorWidth": "700",
+            "DoorHeight": "2400",
+            "DoorThickness": "40"
+        }
+    ],
+    "WindowDetails": [
+        {
+            "DPASpaceWindowId": 8,
+            "DPApartmentId": 2,
+            "DPASpaceId": 9,
+            "WallNo": 1,
+            "WindowNo": null,
+            "WindowKey": "W2_NS_2200",
+            "WindowType": "Sliding",
+            "SillType": "No Sill",
+            "StartPoint": 500,
+            "Active": 1,
+            "WindowWidth": "2200",
+            "WindowHeight": "2400",
+            "SillHeight": "0",
+            "Thickness": "50"
+        }
+    ],
+    "OpeningDetails": [
+        {
+            "DPASpaceOpeningId": 2,
+            "DPApartmentId": 2,
+            "DPASpaceId": 9,
+            "WallNo": 3,
+            "OpeningNo": 1,
+            "SpaceTypeId": null,
+            "Width": 1000,
+            "Height": 3300,
+            "StartPoint": 0,
+            "Active": 1,
+            "TempDPASpaceOpeningID": null
+        }
+    ]
+}

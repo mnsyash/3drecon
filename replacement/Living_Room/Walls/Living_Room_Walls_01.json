@@ -1,0 +1,12 @@
+{"wall_objects": [
+
+        {
+            "name": "Wall Panel - Sofa Back Wall ",
+            "location": [0.01,4.89,0],
+            "scale": [1, 1, 1],
+            "rotation": [0,0,1.5708],
+            "wall_name": "Wall_1",
+            "blend_file": "{base_path}Replacement_asset/Living Room Replacement assets/DW1 Wall Panel 02.blend",
+            "object_name": "DW1 Wall Panel 02"
+        } 
+    ]}

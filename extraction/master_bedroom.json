@@ -1,0 +1,275 @@
+{
+    "path":{"base_path":"D:/try4/assets"
+
+},
+    "room": {
+      "name": "master_bedroom", 
+      "location":[],
+      "length": 0,
+       "width": 0,
+      "height": 0
+      
+      
+    },
+    "ceiling": {
+        "name": "MainCeiling",
+        "location": [],
+        "scale": []  
+    },
+
+    "floor": {
+        "name": "Floor",
+        "location": [],
+        "dimensions": [],
+        "texture": {
+                "base_color": "{base_path}Rest/Floor Texture 2-1-2.png"
+                
+            },
+            "texture_transform": {
+                "scale": [8, 8, 1],
+                "location": [0, 0, 0],
+                "rotation": [0, 0, 1.57]
+            },
+        "object_name": "Wooden Floor"
+    },
+    "walls": [
+      {
+        "name": "Wall_1",
+        "location": [],
+        "scale": [],
+        "rotation": [],
+        "color": [1,1,1],
+        "wallpaper_path": {},
+        "texture": {
+                
+            },
+            "texture_transform": {
+                "scale": [ 53.2, 80, 1],
+                "location": [0, 0, 0],
+                "rotation": [0, 0, 0]
+            }
+      }, 
+      {
+        "name": "Wall_2",
+        "location": [],
+        "scale": [],
+        "rotation": [],
+       "color": [1,1,1],
+        "wallpaper_path": {},
+        "texture": {
+               
+            },
+            "texture_transform": {
+                "scale": [ 53.2, 80, 1],
+                "location": [0, 0, 0],
+                "rotation": [0, 0, 0]
+            }
+          
+      },
+      {
+        "name": "Wall_3",
+        "location": [],
+        "scale": [],
+        "rotation": [],
+        "color": [1,1,1],
+        "wallpaper_path":{},
+        "texture": {
+               
+            },
+            "texture_transform": {
+                "scale": [ 53.2, 80, 1],
+                "location": [0, 0, 0],
+                "rotation": [0, 0, 0]
+            }
+        
+      },   
+      {
+        "name": "Wall_4",
+        "location": [],
+        "scale": [],
+        "rotation": [ ],
+        "color": [1,1,1],
+        "wallpaper_path": {},
+       "texture": {
+                
+            },
+            "texture_transform": {
+                "scale": [ 53.2, 80, 1],
+                "location": [0, 0, 0],
+                "rotation": [0, 0, 0]
+            }
+         
+      }
+    ],
+    "skirtings": [{
+      "name": "Skirting_Wall_1",
+      "location": [],
+      "scale": [],
+      "texture": {
+          "base_color": "{base_path}Rest/Floor Texture 2-1-2.png"
+              
+      },
+      "texture_transform": {
+          "scale": [8, 8, 1],
+              "location": [0, 0, 0],
+              "rotation": [0, 0, 1.57]
+      },
+      "wall_name": "Wall_1",
+      "cutouts": [ 
+            
+      ]
+  },
+  {
+      "name": "Skirting_Wall_2",
+      "location": [],
+      "scale": [],
+      "texture": {
+          "base_color": "{base_path}Rest/Floor Texture 2-1-2.png"
+      },
+      "texture_transform": {
+         "scale": [8, 8, 1],
+              "location": [0, 0, 0],
+              "rotation": [0, 0, 1.57]
+      },
+      "wall_name": "Wall_2",
+      "cutouts": [
+          {
+              "name": "Skirting_Cutout",
+              "location": [],
+              "scale": []
+          }
+      ]
+  },
+  {
+      "name": "Skirting_Wall_3",
+      "location": [],
+      "scale": [],
+      "texture": {
+          "base_color": "{base_path}Rest/Floor Texture 2-1-2.png"
+      },
+      "texture_transform": {
+          "scale": [8, 8, 1],
+              "location": [0, 0, 0],
+              "rotation": [0, 0, 1.57]
+      },
+      "wall_name": "Wall_3",
+      "cutouts": [{
+          "name": "Skirting_Cutout",
+          "location": [],
+          "scale": []
+      }
+         
+      ]
+  },
+  {
+      "name": "Skirting_Wall_4",
+      "location": [],
+      "scale": [],
+      "texture": {
+          "base_color": "{base_path}Rest/Floor Texture 2-1-2.png"
+      },
+      "texture_transform": {
+          "scale": [8, 8, 1],
+              "location": [0, 0, 0],
+              "rotation": [0, 0, 1.57]
+      },
+      "wall_name": "Wall_4",
+      "cutouts": [
+          {
+              "name": "Skirting_Cutout",
+              "location": [],
+              "scale": []
+          }
+      ]
+  }
+   
+],
+    "cutouts" : [
+    {
+      "name": "DoorCutout",
+      "location": [],
+      "scale": [],
+      "wall_name": ""
+    },
+    {
+      "name": "WindowCutout1",
+      "location": [],
+      "scale": [],
+      "wall_name": ""
+    },
+    {
+        "name": "WindowCutout2",
+        "location": [],
+        "scale": [],
+        "wall_name": ""
+      }
+  ],
+    "doors_windows": [
+    {
+      "name": "Door",
+      "location": [],
+      "scale": [],
+      "rotation": [],
+      "wall_name": "",
+      "blend_file": "{base_path}Rest/Door 750 MM.blend",
+      "object_name": "MBR 2 Door Toilet D1_750"
+    },
+    {
+      "name": "Window1",
+      "location": [],
+      "scale": [],
+      "rotation": [],
+      "wall_name": "",
+      "blend_file":"{base_path}Rest/MBR Sliding Window Glass.blend",
+      "object_name": "MBR Sliding Window Glass"
+    },
+    {
+        "name": "Window2",
+        "location": [],
+        "scale": [],
+        "rotation": [],
+        "wall_name": "",
+        "blend_file":"{base_path}Rest/MBR Fixed Glass Sill Window .blend",
+        "object_name": "MBR Fixed Glass Sill Window "
+      }
+  ],
+
+    "openings": [ {
+        "name": "Opening1",
+        "location": [],
+        "scale": [],
+        "wall_name": ""
+    }
+        
+    ],
+    "wall_objects": [
+        
+
+  ],
+  
+  "false_ceiling":[],
+  "cameras": [
+    
+    
+],
+  "lights":[ 
+
+],
+  "room_collection": {
+    "name": "RoomCollection",
+    "location": []
+  },
+"add_on": [
+       
+    ]
+}
+
+
+
+
+
+
+
+
+
+

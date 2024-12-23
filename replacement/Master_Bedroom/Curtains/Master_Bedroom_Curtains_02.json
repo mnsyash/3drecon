@@ -1,0 +1,16 @@
+{ "furniture": 
+  [
+    
+
+    {  "type": "KR Curtain",
+      "name": "KR Curtain",
+      "model_path":"{base_path}/Replacement_asset/Master Bedroom Replacement assets/KR Curtain 01.blend",
+      "location": [1.95,4.64, 0],
+      "rotation": [0, 0,0],
+      "scale": [1,1,1],
+      "material_config":{},
+      "geometry_nodes_params": {
+        }
+    }
+
+  ]}
